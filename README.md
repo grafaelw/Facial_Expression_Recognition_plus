@@ -76,7 +76,7 @@ python utils/process_data.py -d ./data
 ```
  
 ## Deep Learning Basics You Will Need
-Go over [this notebook](https://github.com/TalkAI/facial-emotion-recognition-gluon/tree/master/notebooks/Deep_Learning_Basics_Intuitions.ipynb) that provides basic overview and intuitiion for various deep learning concepts and techniques used in building and training the model.
+Go over [this notebook](https://github.com/grafaelw/Facial_Expression_Recognition_plus//tree/master/notebooks/Deep_Learning_Basics_Intuitions.ipynb) that provides basic overview and intuitiion for various deep learning concepts and techniques used in building and training the model.
 
 # Model Building, Training and Deployment
 Head over to the [FER+ tutorial](https://github.com/TalkAI/facial-emotion-recognition-gluon/tree/master/notebooks/Gluon_FERPlus.ipynb), to go over the process for building, training and deploying FER+ model. It is best to run as a live Jupyter Notebook, and you would need a GPU machine to complete training in a reasonable time. 
